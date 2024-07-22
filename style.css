@@ -1,9 +1,9 @@
 body{background:linear-gradient(90deg, rgba(45,139,130,0.9836309523809523) 0%, rgba(65,98,111,1) 30%, rgba(121,9,53,1) 67%, rgba(5,4,77,1) 100%);;}
- .heads{color: rgb(152, 229, 248); text-shadow: 4px 4px 2px black ;;
-     font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: center; }   
+.heads{color: rgb(152, 229, 248); text-shadow: 4px 4px 2px black ;;
+     font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: center; margin:0 auto;}   
  .main-div{background-color: white; width: max-content;
          height: max-content; border-radius: 8px; box-shadow: 2px 2px 2px  
-         ; display: inline-block; margin: 30px 25px 10px 250px;}
+         ; display: inline-block; padding: 0; margin-right: 5px ;}
     span{padding: 6px; width: max-content; font-size: 15px; margin: 20px; 
         background-color: rgb(183, 211, 248); color: rgb(7, 7, 6); border-radius: 4px; 
          box-shadow: 2px 2px rgba(1, 11, 94, 0.3); font-weight: bold; font-family: Arial, Helvetica, sans-serif;} 
@@ -19,9 +19,9 @@ body{background:linear-gradient(90deg, rgba(45,139,130,0.9836309523809523) 0%, r
      font-weight: bolder; font-size: 15px;}
     .btn:hover{background-color:rgb(89, 159, 250) ; color:rgb(251, 250, 255); padding: 18px 45px ;transition-duration: 0.4s; cursor: pointer;}
     .btn1:hover{background-color:rgb(89, 159, 250) ; color: rgb(249, 249, 250);padding: 18px 45px; transition-duration: 0.4s; cursor: pointer; }
-     
+     .parent{margin: 20px auto; width: max-content;}
     .main-div2{background-color: white; width: max-content;
-     height: max-content; border-radius: 8px; box-shadow: 2px 2px 2px ; display: inline-block;}
+     height: max-content; border-radius: 8px; box-shadow: 2px 2px 2px ; display: inline-block; margin-left:5px;}
      
      
     
